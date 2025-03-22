@@ -1,0 +1,6 @@
+{
+    "nombre": "Jorge",
+    "edad": 22,
+    "aficiones": ["Musica", "Programacion"],
+    "carrera": "Ingenieria de Sistemas"
+  }
